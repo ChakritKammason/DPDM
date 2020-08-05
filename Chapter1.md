@@ -39,3 +39,5 @@
 #### Classification รู้อยู่แล้วว่าอยู่กลุ่มไหนแล้วเราจะแยกว่า Data ว่ากลุ่มนี้ต้องจัดกลุ่มอย่างไร
 #### Clustering จัดกลุ่มตามความสัมพันธ์ใน Data 
 #### Outlier หา Data ที่ไม่เกี่ยวกับกลุ่มข้อมูล อาจเกิดจากการกรอกข้อมูลผิด 
+![picture](https://76a4dad0-a-d64c9f8f-s-sites.googlegroups.com/a/bumail.net/data-mining/khwam-hmay/etl.jpg?attachauth=ANoY7cpKlIsiM3uIhJ8fGxVEqqSMPa_9t-tnPxt-h0o2PXu3U4LstioM1DzWUQ3T1TU3zFDmzyIBXyqiWwkFkJV12SPa_uJs4Wst4xWH06bezxYhb3VqhkXQx-egOxQJAYq-ZupcyHq0hI6pwxSjzrAoLEH02wkHvx3TzGmJhT55VVj6QX0CeeGI5s7bojV7vR2mMW31xq9OPG8s125lw_iQ_Fm0q52YyQ%3D%3D&attredirects=0)
+
