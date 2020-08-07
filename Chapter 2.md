@@ -7,4 +7,4 @@
 ### หน้าตาของ Data
 ![picture](https://www.somkiat.cc/wp-content/uploads/2015/11/Screen-Shot-2558-11-03-at-10.23.51-PM.jpg)
 ### structure data คือ data ที่มีโครงสร้าง 
-
+### 
